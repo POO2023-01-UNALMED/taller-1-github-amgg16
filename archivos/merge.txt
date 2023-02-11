@@ -1,1 +1,3 @@
 Ana María Guarín Giraldo, 18 años, mis aspiraciones en la materia es lograr comprender el lenguaje de java y mejorar python
+Ahora si puedo crear un archivo y subir la carpeta porque la carpeta contiene algo
+Debemos tener cuidado al modificiar archivos al mismo tiempo ya que se pueden generar conflictos 
